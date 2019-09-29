@@ -4,9 +4,10 @@ This is the code repository for [Implementing Azure Cognitive Services with QnA 
 
 ## About the Video Course
 Azure Cognitive Services is a set of Azure APIs that makes it easy to enhance your applications. Azure Cognitive Services allows you to permeate your apps, websites, and bots with intelligent algorithms. QnA Maker is a cognitive offering by Microsoft, categorized under the language API.
-In this course, you'll learn how to integrate QnA Maker with Azure Bot Service and Microsoft Bot Framework, and then integrate the developed bot with social channels. You'll get familiar with QnA Maker's FAQ knowledge base with Azure Bot Service, where you will discover how to get started with a web app bot using Azure Portal. You'll learn to deploy your bot on Azure Web App, making your bot live. Finally, you will learn how to add media content—including videos and images—to the QnA Maker knowledge base. By the end of this course, you will be confident about using and implementing Cognitive Services Language APIs in your business apps to help you take your overall understanding of the Microsoft Cognitive Services Suite to the next level.
+In this course, you'll learn how to integrate QnA Maker with Azure Bot Service and Microsoft Bot Framework, and then integrate the developed bot with social channels. You'll get familiar with QnA Maker's FAQ knowledge base with Azure Bot Service, where you will discover how to get started with a web app bot using Azure Portal. You'll learn to deploy your bot on Azure Web App, making your bot live. Finally, you will learn how to add media content—including videos and images—to the QnA Maker knowledge base. 
 
-All the code and supporting files for this course are also available on GitHub at https://github.com/mehreentahir16/Implementing-Azure-Cognitive-services-with-QnA-Maker 
+By the end of this course, you will be confident about using and implementing Cognitive Services Language APIs in your business apps to help you take your overall understanding of the Microsoft Cognitive Services Suite to the next level.
+
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
